@@ -128,7 +128,7 @@ body {
     gap: 0 10px;
     width: 70%;
 width: 210mm;
-Height: 450mm;
+Height: 380mm;
 }
 
 .first-card {
@@ -368,7 +368,7 @@ p {
     padding: 0 20px;
 }
 .prices-con {
-    padding: 80px 40px;
+    padding: 40px 40px;
     position: relative;
     overflow: hidden;
     font-size: 18px;
